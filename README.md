@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv19468" alt="dhruv19468" /></a> </p>
 
-- 🌱 I’m currently learning **AI, ML, NLP**
+- 🌱 I’m currently learning **AI, ML, NLP, Deep Learning**
 
 - 💬 Ask me about **Python, SQL, Tableau**
 
